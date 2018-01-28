@@ -1,5 +1,5 @@
 # awesome-platform
-windows and linux awesome application, just for me
+windows and linux awesome applications, just for me
 
 
 ## Windows
