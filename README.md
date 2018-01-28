@@ -15,6 +15,7 @@ windows and linux awesome application, just for me
 ### 编程软件
 - [Visual Studio Community]( https://www.visualstudio.com/downloads/?rr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DFvbKVwQgxcTP8ZaPjYghuxtFCUHJLtlcOOuo6RuKo6EHIPLbSchXEk4-pDPxXFTsc6F_L9uModHd__SDorTNwK%26wd%3D%26eqid%3Dac93bed000035cbd000000035a6d5567)
 - [JetBrains](https://www.jetbrains.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ### 数学平台
 - [MATLAB](https://cn.mathworks.com/products/matlab.html)
@@ -28,10 +29,11 @@ windows and linux awesome application, just for me
 
 ### 实用小工具
 - [Oh-My-Zsh](http://ohmyz.sh/)
-- [Vim](http://www.vim.org/)
 - [Git](https://git-scm.com/)
 - [Snipaste](https://www.snipaste.com/)
 ### 编程软件
 - [Eclipse](https://www.eclipse.org/downloads/)
+- [Vim](http://www.vim.org/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 ### 数学平台
 - [Octave](http://www.gnu.org/software/octave/)
