@@ -36,4 +36,4 @@ windows and linux awesome applications, just for me
 - [Vim](http://www.vim.org/) - 文本编辑器
 - [Visual Studio Code](https://code.visualstudio.com/) - 免费代码编辑器
 ### 数学平台
-- [Octave](http://www.gnu.org/software/octave/) - MATLAB替代品
+- [Octave](http://www.gnu.org/software/octave/) - MATLAB的开源替代品
